@@ -21,6 +21,4 @@ function guess_game(){
 }
 echo "Welcome to the Guessing Game! "
 echo "Let's Start, Guess the total number of files in the current directory! "
-
 guess_game
-
